@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25 19:05",
+  "generated_at": "2026-11-25 21:23",
   "score": -33,
   "stance": "防守优先",
   "color": "#08783e",
@@ -33,14 +33,14 @@
     },
     {
       "label": "A50 先行",
-      "value": "富时 A50 -0.28%",
-      "contribution": -1.7,
+      "value": "富时 A50 -0.38%",
+      "contribution": -2.3,
       "note": "离岸期货只作低权重先行确认，避免重复计算 A 股现货动量"
     },
     {
       "label": "美元与人民币",
-      "value": "USD/CNH 6.6766 (+0.17%) / DXY 104.03 (+0.19%)",
-      "contribution": -3.0,
+      "value": "USD/CNH 6.6727 (+0.12%) / DXY 103.97 (+0.13%)",
+      "contribution": -2.0,
       "note": "美元走弱与人民币走强通常缓解外部流动性压力"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "title": "港股早报｜美股纳指跌超1% 周大福中期净利近翻番",
-      "source": "财联社",
-      "published": "Tue, 24 Nov 2026 23:44:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrTnc4REZvdVlOaXFyZEt3WHBpdFVVU3h3SEtRbDFEdVZDN1FkWTc1bXVWTTFuQ3pFcmUzSXIzTHlwVXcyUzQwXw?oc=5"
+      "source": "手机网易网",
+      "published": "Tue, 24 Nov 2026 23:59:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SWmxDTzJmenpmWTBSNmhobkZEcnc1WW5PcFpkYWxvVE0yNWwzZDF4SFIzaUtwZmVaSE1uZkV5aTJsVnF1dEM4TVFtWHJ2Q2lJcVNldG9QUTFZMU04TXdHRU1n?oc=5"
     }
   ],
   "events": [
@@ -101,19 +101,19 @@
         {
           "code": "DXY",
           "label": "美元指数",
-          "value": "104.03 / +0.19%",
+          "value": "103.97 / +0.13%",
           "state": "fresh"
         },
         {
           "code": "USDCNH",
           "label": "USD/CNH",
-          "value": "6.6766 / +0.17%",
+          "value": "6.6727 / +0.12%",
           "state": "fresh"
         },
         {
           "code": "A50",
           "label": "富时A50",
-          "value": "12,419.76 / -0.28%",
+          "value": "12,407.47 / -0.38%",
           "state": "fresh"
         }
       ],
