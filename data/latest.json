@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28 20:12",
+  "generated_at": "2026-11-29 00:09",
   "status": {
     "schema_version": 1,
-    "checked_at": "2026-11-28 20:12",
-    "slot": "midday",
-    "slot_label": "午间脉搏",
-    "target_date": "2026-11-28",
+    "checked_at": "2026-11-29 00:09",
+    "slot": "close",
+    "slot_label": "收盘快照",
+    "target_date": "2026-11-29",
     "market_data_date": "2026-11-27",
     "market_state": "non_trading",
     "pulse_updated": false,
@@ -15,7 +15,7 @@
   },
   "global": {
     "schema_version": 1,
-    "generated_at": "2026-11-28 20:12",
+    "generated_at": "2026-11-29 00:09",
     "markets": [
       {
         "code": "SPX",
@@ -195,8 +195,8 @@
   },
   "analysis": {
     "schema_version": 1,
-    "generated_at": "2026-11-28 20:12",
-    "score": -15,
+    "generated_at": "2026-11-29 00:09",
+    "score": -13,
     "stance": "谨慎防守",
     "color": "#3b9b68",
     "confidence": "中",
@@ -252,8 +252,8 @@
       },
       {
         "label": "新闻语气",
-        "value": "正向词 2 / 风险词 1",
-        "contribution": 2,
+        "value": "正向词 3 / 风险词 1",
+        "contribution": 4,
         "note": "标题关键词只做低权重提示，不代替事实核验"
       }
     ],
@@ -261,11 +261,29 @@
       "降低追涨优先级，重点观察 VIX、长端利率和跌停扩散是否继续恶化。"
     ],
     "news_tone": {
-      "positive_hits": 2,
+      "positive_hits": 3,
       "negative_hits": 1,
-      "score": 2
+      "score": 4
     },
     "news": [
+      {
+        "title": "胡塞武装袭击致沙特主权基金大楼受损 贵金属价格重挫银价跌近5% | 环球市场",
+        "source": "财联社",
+        "published": "Sat, 28 Nov 2026 11:21:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OSUdaUFM0Y254VGd1UU9iV0lQbXQ4Y18yQk9xUHFMNndUcjhiaVl1QzM1UjUwS3Rrb2lfZmFFRHFYcXo0OUxXZw?oc=5"
+      },
+      {
+        "title": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？",
+        "source": "华尔街见闻",
+        "published": "Sat, 28 Nov 2026 11:31:31 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZYzBDREJxaXVDSi1JZl96cE5iZVMwLUZmRDBqQV9PRW10Yi1JX0c1VDNqNUxWUjNBWXJfdlV0bEFjT0p5NTl3VlRaTWVDN3J3QXR3?oc=5"
+      },
+      {
+        "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
+        "source": "东方财富",
+        "published": "Fri, 27 Nov 2026 18:36:51 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ZTBIdlVCZERRV3VFbWM3c1dMVTlFcmVHazVLbUozTkVSS2l0eDZLbGh4eGZubmgyWlR3OXNTM1RISDZySGk1a21VM3NDUF9ESDktdnhWMVBzeWZ0N2htUHlIVQ?oc=5"
+      },
       {
         "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
         "source": "财联社",
@@ -273,10 +291,10 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvaXJGdW9yb05jVDRRaHotSjVyaTJPSVFzd3pydDQ4VW5rVjNlUFc1NV9RVnM0N2NBWTk5TFNRX2xGVGRnMVdBbg?oc=5"
       },
       {
-        "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
-        "source": "东方财富",
-        "published": "Fri, 27 Nov 2026 18:36:51 GMT",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ZTBIdlVCZERRV3VFbWM3c1dMVTlFcmVHazVLbUozTkVSS2l0eDZLbGh4eGZubmgyWlR3OXNTM1RISDZySGk1a21VM3NDUF9ESDktdnhWMVBzeWZ0N2htUHlIVQ?oc=5"
+        "title": "全球七大投行最新黄金预测出炉！高盛两度下调目标价 金价恐要等到2028年才能再创新高",
+        "source": "FX168财经",
+        "published": "Sat, 28 Nov 2026 01:24:37 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bWpoVkcyMkJITWoxelA3c0Q2R1NtMTU3N2dmRDJGbGVoR3daQ0o4VmlVei1mU1lGRFRJODVlMlR5V2RlYXUxWjNxLU1XMTFoSXhZVG9JbWYtT2ZQdVhQckpCQUs4Zzdoci1PQw?oc=5"
       },
       {
         "title": "全球市场大反攻！道指飙升逾500点、黄金白银暴涨 油价剑指100美元、摩根大通释放比特币“见底”信号",
@@ -287,49 +305,9 @@
     ],
     "events": [
       {
-        "key": "technology",
-        "label": "科技与产业",
-        "headline_count": 2,
-        "macro_path": "科技盈利与估值 → 全球成长风格 → 风险偏好扩散",
-        "a_share_lens": "半导体、算力、通信与其他高估值成长方向",
-        "watch": [
-          {
-            "code": "NDX",
-            "label": "纳斯达克",
-            "value": "24,129.50 / +2.31%",
-            "state": "fresh"
-          },
-          {
-            "code": "A50",
-            "label": "富时A50",
-            "value": "13,052.90 / -0.08%",
-            "state": "fresh"
-          },
-          {
-            "code": "US10Y",
-            "label": "美债10Y",
-            "value": "4.94%",
-            "state": "stale"
-          }
-        ],
-        "invalidation": "失效条件：若纳指走弱、A50 不确认或长端利率继续上行，主题热度不等于趋势。",
-        "headlines": [
-          {
-            "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
-            "source": "财联社",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvaXJGdW9yb05jVDRRaHotSjVyaTJPSVFzd3pydDQ4VW5rVjNlUFc1NV9RVnM0N2NBWTk5TFNRX2xGVGRnMVdBbg?oc=5"
-          },
-          {
-            "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
-            "source": "东方财富",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ZTBIdlVCZERRV3VFbWM3c1dMVTlFcmVHazVLbUozTkVSS2l0eDZLbGh4eGZubmgyWlR3OXNTM1RISDZySGk1a21VM3NDUF9ESDktdnhWMVBzeWZ0N2htUHlIVQ?oc=5"
-          }
-        ]
-      },
-      {
         "key": "commodities",
         "label": "商品与成本",
-        "headline_count": 2,
+        "headline_count": 3,
         "macro_path": "商品价格 → 输入成本与通胀预期 → 企业利润分配",
         "a_share_lens": "能源、化工、有色、航空运输与中下游成本敏感行业",
         "watch": [
@@ -360,16 +338,16 @@
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvaXJGdW9yb05jVDRRaHotSjVyaTJPSVFzd3pydDQ4VW5rVjNlUFc1NV9RVnM0N2NBWTk5TFNRX2xGVGRnMVdBbg?oc=5"
           },
           {
-            "title": "全球市场大反攻！道指飙升逾500点、黄金白银暴涨 油价剑指100美元、摩根大通释放比特币“见底”信号",
+            "title": "全球七大投行最新黄金预测出炉！高盛两度下调目标价 金价恐要等到2028年才能再创新高",
             "source": "FX168财经",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0pPSno1NzBoOTZDTW1tNjBSekQ5RkhpV0NfaVk2ZHl1NVRsOTJsN2JEVzNOUVl0LVBVaGkyZkV3Q1MwSmdPRnNvZDJ2VlBsTUoxNGFCVWZraEVIcDc3TGRKUkl6LXNITHAxUkhLTDUwTml0NGRFTWNranBZUnJXXy1CT1Q?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bWpoVkcyMkJITWoxelA3c0Q2R1NtMTU3N2dmRDJGbGVoR3daQ0o4VmlVei1mU1lGRFRJODVlMlR5V2RlYXUxWjNxLU1XMTFoSXhZVG9JbWYtT2ZQdVhQckpCQUs4Zzdoci1PQw?oc=5"
           }
         ]
       },
       {
         "key": "central_bank",
         "label": "央行与利率",
-        "headline_count": 1,
+        "headline_count": 2,
         "macro_path": "政策利率预期 → 美债收益率与美元 → 全球流动性",
         "a_share_lens": "高估值成长、券商、地产与人民币敏感资产",
         "watch": [
@@ -395,9 +373,54 @@
         "invalidation": "失效条件：若美债利率、美元与人民币没有同向确认，标题冲击可能只是短期噪音。",
         "headlines": [
           {
+            "title": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？",
+            "source": "华尔街见闻",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZYzBDREJxaXVDSi1JZl96cE5iZVMwLUZmRDBqQV9PRW10Yi1JX0c1VDNqNUxWUjNBWXJfdlV0bEFjT0p5NTl3VlRaTWVDN3J3QXR3?oc=5"
+          },
+          {
             "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
             "source": "东方财富",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ZTBIdlVCZERRV3VFbWM3c1dMVTlFcmVHazVLbUozTkVSS2l0eDZLbGh4eGZubmgyWlR3OXNTM1RISDZySGk1a21VM3NDUF9ESDktdnhWMVBzeWZ0N2htUHlIVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "key": "technology",
+        "label": "科技与产业",
+        "headline_count": 2,
+        "macro_path": "科技盈利与估值 → 全球成长风格 → 风险偏好扩散",
+        "a_share_lens": "半导体、算力、通信与其他高估值成长方向",
+        "watch": [
+          {
+            "code": "NDX",
+            "label": "纳斯达克",
+            "value": "24,129.50 / +2.31%",
+            "state": "fresh"
+          },
+          {
+            "code": "A50",
+            "label": "富时A50",
+            "value": "13,052.90 / -0.08%",
+            "state": "fresh"
+          },
+          {
+            "code": "US10Y",
+            "label": "美债10Y",
+            "value": "4.94%",
+            "state": "stale"
+          }
+        ],
+        "invalidation": "失效条件：若纳指走弱、A50 不确认或长端利率继续上行，主题热度不等于趋势。",
+        "headlines": [
+          {
+            "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
+            "source": "东方财富",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ZTBIdlVCZERRV3VFbWM3c1dMVTlFcmVHazVLbUozTkVSS2l0eDZLbGh4eGZubmgyWlR3OXNTM1RISDZySGk1a21VM3NDUF9ESDktdnhWMVBzeWZ0N2htUHlIVQ?oc=5"
+          },
+          {
+            "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
+            "source": "财联社",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvaXJGdW9yb05jVDRRaHotSjVyaTJPSVFzd3pydDQ4VW5rVjNlUFc1NV9RVnM0N2NBWTk5TFNRX2xGVGRnMVdBbg?oc=5"
           }
         ]
       },
@@ -442,11 +465,11 @@
   },
   "scorecard": {
     "schema_version": 1,
-    "generated_at": "2026-11-28 20:12",
+    "generated_at": "2026-11-29 00:09",
     "method": "真实运行信号的前向检验；不使用回填的全球与新闻数据伪造历史成绩。",
     "status": "ready",
     "minimum_samples": 20,
-    "signal_count": 348,
+    "signal_count": 349,
     "matured_1d": 274,
     "directional_1d": 233,
     "hit_rate_1d": 57.5,
@@ -483,14 +506,39 @@
       }
     ],
     "current": {
-      "captured_at": "2026-11-28 20:12",
-      "slot": "midday",
-      "score": "-15",
+      "captured_at": "2026-11-29 00:09",
+      "slot": "close",
+      "score": "-13",
       "stance": "谨慎防守",
       "confidence": "中",
       "health": "markets,us10y,vix"
     },
     "recent": [
+      {
+        "captured_at": "2026-11-29 00:09",
+        "slot": "close",
+        "signal_date": "2026-11-29",
+        "market_asof_date": "2026-11-27",
+        "score": "-13",
+        "stance": "谨慎防守",
+        "confidence": "中",
+        "sh_close": "3634.35",
+        "sh_pct": "-0.59",
+        "global_avg": "1.6177",
+        "a50_pct": "-0.07731761463676268",
+        "usdcnh": "6.6551",
+        "usdcnh_pct": "-0.09607445770472012",
+        "dxy": "104.0401",
+        "dxy_pct": "0.2378768551311694",
+        "vix": "15.44",
+        "us10y": "4.94",
+        "health": "markets,us10y,vix",
+        "return_1d": null,
+        "return_3d": null,
+        "return_5d": null,
+        "direction": -1,
+        "hit_1d": null
+      },
       {
         "captured_at": "2026-11-28 20:12",
         "slot": "midday",
@@ -957,31 +1005,6 @@
         "usdcnh_pct": "0.009002250562639702",
         "dxy": "103.8194",
         "dxy_pct": "-0.013386842178753078",
-        "vix": "15.44",
-        "us10y": "4.94",
-        "health": "markets,us10y,vix",
-        "return_1d": null,
-        "return_3d": null,
-        "return_5d": null,
-        "direction": -1,
-        "hit_1d": null
-      },
-      {
-        "captured_at": "2026-11-25 02:51",
-        "slot": "close",
-        "signal_date": "2026-11-25",
-        "market_asof_date": "2026-11-24",
-        "score": "-28",
-        "stance": "防守优先",
-        "confidence": "中",
-        "sh_close": "3634.35",
-        "sh_pct": "-0.59",
-        "global_avg": "-0.074",
-        "a50_pct": "-0.44240858194346533",
-        "usdcnh": "6.6652",
-        "usdcnh_pct": "-0.012001200120026478",
-        "dxy": "103.8041",
-        "dxy_pct": "-0.5147535201818654",
         "vix": "15.44",
         "us10y": "4.94",
         "health": "markets,us10y,vix",

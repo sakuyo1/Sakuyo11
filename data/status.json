@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-28 20:12",
-  "slot": "midday",
-  "slot_label": "午间脉搏",
-  "target_date": "2026-11-28",
+  "checked_at": "2026-11-29 00:09",
+  "slot": "close",
+  "slot_label": "收盘快照",
+  "target_date": "2026-11-29",
   "market_data_date": "2026-11-27",
   "market_state": "non_trading",
   "pulse_updated": false,
