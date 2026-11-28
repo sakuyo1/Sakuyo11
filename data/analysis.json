@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28 05:28",
+  "generated_at": "2026-11-28 11:54",
   "score": -15,
   "stance": "谨慎防守",
   "color": "#3b9b68",
@@ -39,8 +39,8 @@
     },
     {
       "label": "美元与人民币",
-      "value": "USD/CNH 6.6546 (-0.10%) / DXY 104.04 (+0.24%)",
-      "contribution": 0.0,
+      "value": "USD/CNH 6.6551 (-0.10%) / DXY 104.04 (+0.24%)",
+      "contribution": -0.0,
       "note": "美元走弱与人民币走强通常缓解外部流动性压力"
     },
     {
@@ -76,12 +76,6 @@
       "source": "东方财富",
       "published": "Fri, 27 Nov 2026 10:32:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WUDNQQkF6TjBWLVVndWJqRG92ZXBhN0FZeEtscFhHWWw3dXB0T1E0QzhiNl9TZFFtekxfR2lEMDNuS05lZE9obnUwLXdfQVFHMmx1TVRCeUtQc2ZBcEtNag?oc=5"
-    },
-    {
-      "title": "中金 | 资产配置：如何应对市场动荡",
-      "source": "富途牛牛",
-      "published": "Fri, 27 Nov 2026 00:18:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUV9UaTg1M3J5VndQRXNsZ2o0T1FhV2dzekhTNUZBc0dhRThlcS1RcjRUdkFSY04zNkVtVjdZdW8wOTk5TENIdm9yVUhGREU3UXNFZzNwTHBRODk3VElUOFRhcjZxSkVFZEtma0I4R19iRWhEdW1XTWRlS01VTFV1d285NkRQVTU1cVV0MG9WVExBN2x1dVEwWERIVQ?oc=5"
     },
     {
       "title": "胡塞武装袭击致沙特主权基金大楼受损 贵金属价格重挫银价跌近5% | 环球市场",
@@ -165,7 +159,7 @@
         {
           "code": "USDCNH",
           "label": "USD/CNH",
-          "value": "6.6546 / -0.10%",
+          "value": "6.6551 / -0.10%",
           "state": "fresh"
         }
       ],
@@ -264,7 +258,7 @@
         {
           "code": "USDCNH",
           "label": "USD/CNH",
-          "value": "6.6546 / -0.10%",
+          "value": "6.6551 / -0.10%",
           "state": "fresh"
         },
         {
@@ -305,7 +299,7 @@
         {
           "code": "USDCNH",
           "label": "USD/CNH",
-          "value": "6.6546 / -0.10%",
+          "value": "6.6551 / -0.10%",
           "state": "fresh"
         }
       ],
